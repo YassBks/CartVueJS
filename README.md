@@ -1,5 +1,7 @@
 # exo
 
+Video de Demo disponibe sur le repo (panier.mp4)
+
 ## Project setup
 ```
 npm install
